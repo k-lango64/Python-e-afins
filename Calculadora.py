@@ -6,6 +6,7 @@ class Escolha():
         print('[ - ] - Subtracao')
         print('[ * ] - Multiplicacao')
         print('[ / ] - Divisao')
+<<<<<<< HEAD
         op = raw_input('= ')
 
 class Operacoes():
@@ -21,3 +22,8 @@ class Operacoes():
 e1 = Escolha()
 e1.escolha()
 
+=======
+        n1 = raw_input(': ')
+e1 = Escolha()
+e1.escolha()
+>>>>>>> b68775373504f05c966fc96ab1bade5feeac829f
