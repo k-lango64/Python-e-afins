@@ -18,6 +18,3 @@ class Operacoes():
     def Divisao(self):
         pass
         n1 = raw_input(': ')
-e1 = Escolha()
-e1.escolha()
-
